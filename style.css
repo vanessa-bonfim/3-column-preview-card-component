@@ -169,20 +169,20 @@ button {
 hover
 /////////// */
 
-div .hover-1:hover {
+section .hover-1:hover {
  cursor: pointer;
  color: hsl(0, 0%, 95%);
  background-color: hsl(31, 77%, 52%);
  
 }
 
-div .hover-2:hover {
+section .hover-2:hover {
     cursor: pointer;
     color: hsl(0, 0%, 95%);
     background-color: hsl(184, 100%, 22%);
 }
 
-div .hover-3:hover {
+section .hover-3:hover {
     cursor: pointer;
     color: hsl(0, 0%, 95%);
     background-color: hsl(179, 100%, 13%);
